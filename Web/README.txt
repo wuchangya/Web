@@ -1,0 +1,1 @@
+下载下来的typora-user-images放到自己的C:\Users\无常\AppData\Roaming\Typora\typora-user-images\路径下面，想修改路径就将每个文件全部替换为自己的路径
